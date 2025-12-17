@@ -1,6 +1,5 @@
 # GoGoQuery
-GoGoQuery is a desktop-based marketplace application developed using Java and Java GUI, with XAMPP and SQL for database management. It supports user and product management, transaction processing, and centralized data storage, focusing on efficient workflows and a reliable buying and selling experience.
-GoGoQuery Marketplace Application
+
 
 GoGoQuery is a desktop-based marketplace application designed to facilitate digital buying and selling through a structured and user-friendly system. The application was developed using Java with Java GUI for the user interface, and is supported by XAMPP and an SQL database for data management.
 
